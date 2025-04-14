@@ -1,8 +1,7 @@
 ### Hello 👋, I'm Le Huynh Huyen Trang
 
 # 💫 About Me:
-👩🏻‍💻 I'm currently a senior student at the [Faculty of Information Technology, Ton Duc Thang University (Vietnam)](https://it.tdtu.edu.vn/)
-<br>🧠 Currently, I'm deeply engaged in exploring the realms of machine learning, deep learning, and uncovering the potential of artificial intelligence.
+🧠 Currently, I'm deeply engaged in exploring the realms of machine learning, deep learning, and uncovering the potential of artificial intelligence.
 <br>💻 On my GitHub, you'll find a collection of projects reflecting my journey through the fascinating field of ML/DL/AI. From experimenting with cutting-edge algorithms to tackling challenging datasets, I'm always eager to learn and apply new concepts in innovative ways.
 
 # 💻 Tech Stack:
